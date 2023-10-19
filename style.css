@@ -1,0 +1,27 @@
+body
+{
+    background-position: center;
+    background-size: cover;
+}
+
+a
+{
+    font-size: 20px !important;
+    width: 400px;
+    border-radius: 30px !important;
+    background-color: #f3a127;
+    color: white;
+}
+
+.btn
+{
+    font-family: 'Zeyada', cursive;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+h2
+{
+    font-family: 'Zeyada', cursive;
+    font-weight: bold;
+}
